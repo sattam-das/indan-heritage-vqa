@@ -5,6 +5,7 @@ A multimodal deep learning system that answers natural language questions about 
 ## Project Overview
 
 This project implements a Visual Question Answering (VQA) system combining:
+
 - **Vision Encoder**: ResNet50 (pre-trained on ImageNet)
 - **Language Encoder**: LSTM for question processing
 - **Fusion Module**: Late fusion with concatenation
@@ -16,7 +17,7 @@ This project implements a Visual Question Answering (VQA) system combining:
 
 ```powershell
 # Clone repository
-git clone https://github.com/yourusername/indian-heritage-vqa.git
+git clone https://github.com/sattam-das/indian-heritage-vqa.git
 cd indian-heritage-vqa
 
 # Create virtual environment
@@ -37,4 +38,4 @@ MIT License - see LICENSE file.
 
 ## Contact
 
-Your Name - your.email@example.com
+Sattam Das - sattamwk06@gmail.com
