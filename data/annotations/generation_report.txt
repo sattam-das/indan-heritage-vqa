@@ -1,0 +1,37 @@
+QA GENERATION REPORT
+============================================================
+Generated: 2026-02-28 19:33:33
+
+Total images: 310
+Total QA pairs: 2480
+Avg QA per image: 8.0
+
+QA PAIRS BY MONUMENT:
+------------------------------------------------------------
+Ajanta Caves                  :  192 QA pairs
+Charminar Hyderabad           :  184 QA pairs
+Ellora Caves                  :  160 QA pairs
+Fatehpur Sikri                :  120 QA pairs
+Golden Temple Amritsar        :  176 QA pairs
+Hampi Monuments               :  160 QA pairs
+Hawa Mahal Jaipur             :  176 QA pairs
+Khajuraho Temples             :  176 QA pairs
+Konark Sun Temple             :  120 QA pairs
+Mahabalipuram Monuments       :  152 QA pairs
+Qutub Minar                   :  176 QA pairs
+Red Fort Delhi                :  120 QA pairs
+Sanchi Stupa                  :  128 QA pairs
+Taj Mahal                     :  280 QA pairs
+Victoria Memorial Kolkata     :  160 QA pairs
+------------------------------------------------------------
+
+QA PAIRS BY QUESTION TYPE:
+------------------------------------------------------------
+monument_identification       :  310 ( 12.5%)
+location                      :  310 ( 12.5%)
+state                         :  310 ( 12.5%)
+architectural_style           :  310 ( 12.5%)
+builder_patron                :  310 ( 12.5%)
+time_period                   :  310 ( 12.5%)
+material                      :  310 ( 12.5%)
+religion                      :  310 ( 12.5%)
