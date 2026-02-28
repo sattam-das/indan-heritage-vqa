@@ -1,0 +1,27 @@
+==========================================
+INDIAN HERITAGE VQA PROJECT
+==========================================
+
+Project successfully created!
+
+Next Steps:
+1. Initialize Git repository:
+   git init
+   git add .
+   git commit -m "Initial commit: project structure"
+
+2. Create and activate virtual environment:
+   python -m venv venv
+   venv\Scripts\Activate.ps1
+
+3. Install dependencies:
+   pip install -r requirements.txt
+
+4. Start with data collection (Week 1, Day 2):
+   python scripts\collect_images.py
+
+Project Timeline: 4 weeks (March 1-31, 2025)
+Target: Google Student Researcher Internship 2026
+
+Good luck with your project!
+==========================================

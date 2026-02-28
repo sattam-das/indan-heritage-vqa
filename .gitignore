@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# TensorFlow / Keras
+*.h5
+*.hdf5
+*.pb
+
+# Models and checkpoints
+models/checkpoints/*.h5
+models/*.h5
+!models/.gitkeep
+
+# Dataset
+data/images/*.jpg
+data/images/*.jpeg
+data/images/*.png
+!data/images/.gitkeep
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store

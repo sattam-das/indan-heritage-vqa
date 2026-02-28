@@ -1,0 +1,34 @@
+# Core Deep Learning
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# Data Processing
+numpy>=1.23.0
+pandas>=1.5.0
+pillow>=9.0.0
+opencv-python>=4.7.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Machine Learning Utilities
+scikit-learn>=1.2.0
+scipy>=1.10.0
+
+# Progress Bars
+tqdm>=4.65.0
+
+# Configuration Management
+pyyaml>=6.0
+
+# Logging
+tensorboard>=2.13.0
+
+# Demo Application
+streamlit>=1.22.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.23.0
+notebook>=6.5.4
